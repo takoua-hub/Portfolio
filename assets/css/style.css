@@ -667,12 +667,6 @@ svg {
     width:200px;
     cursor: pointer;
   }
-  
-  
-
-
-
-
 /* Start Footer */
 .footer {
     background-color: #191E22;
@@ -754,7 +748,7 @@ svg {
     position: absolute;
     width: 50%;
     height: 0.5px;
-    background-color: #0078ff;
+    background-color: var(--main-color);
     top:0;
     left: 0;
 }
